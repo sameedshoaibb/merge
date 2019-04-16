@@ -23,13 +23,3 @@ posts = db.posts
 
 for x in posts.find():
   print(x) 
-
-
- print '''
-   ____                  _           _     
- / ___|  __ _ _ __ __ _| |__   __ _| |__  
- \___ \ / _` | '__/ _` | '_ \ / _` | '_ \ 
-  ___) | (_| | | | (_| | | | | (_| | | | |
- |____/ \__,_|_|  \__,_|_| |_|\__,_|_| |_|
-	   Sarahah XSS Exploitation Script
-       Author: Shawar Khan ( www.shawarkhan.com ) '''
